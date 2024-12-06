@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\form_principal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|solutionrelative:form_principal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\form_principal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|solutionrelative:form_principal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\form_principal\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|solutionrelative:form_principal\\formmodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA942F-74AF-47C4-B936-FF46B4308529}|3_Evaluacion_ADO\\3_Evaluacion_ADO.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\3_evaluacion_ado\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBA942F-74AF-47C4-B936-FF46B4308529}|3_Evaluacion_ADO\\3_Evaluacion_ADO.csproj|solutionrelative:3_evaluacion_ado\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\form_principal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|solutionrelative:form_principal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E00F8B-9301-4363-A5C3-815CD8512695}|Biblioteca_de_Clases\\Biblioteca_de_Clases.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\biblioteca_de_clases\\miclaseserealizadoragenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E00F8B-9301-4363-A5C3-815CD8512695}|Biblioteca_de_Clases\\Biblioteca_de_Clases.csproj|solutionrelative:biblioteca_de_clases\\miclaseserealizadoragenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\form_principal\\formarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464998A-0543-4989-ACB8-536B3D1FB116}|Form_Principal\\Form_Animales.csproj|solutionrelative:form_principal\\formarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBA942F-74AF-47C4-B936-FF46B4308529}|3_Evaluacion_ADO\\3_Evaluacion_ADO.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\3_evaluacion_ado\\clase_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBA942F-74AF-47C4-B936-FF46B4308529}|3_Evaluacion_ADO\\3_Evaluacion_ADO.csproj|solutionrelative:3_evaluacion_ado\\clase_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D2D948-65F9-4FB1-8E1F-1651EADB5535}|Testeto_Animales_Serealizar\\Testeto_Animales_Serealizar.csproj|c:\\users\\usuario\\desktop\\cfp_tp\\cfp_tp\\alejotaccone\\testeto_animales_serealizar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D2D948-65F9-4FB1-8E1F-1651EADB5535}|Testeto_Animales_Serealizar\\Testeto_Animales_Serealizar.csproj|solutionrelative:testeto_animales_serealizar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 403,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Form_Principal\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form_Principal\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:38:24.746Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Form_Principal\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormPrincipal.cs",
+              "RelativeToolTip": "Form_Principal\\FormPrincipal.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:55:50.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormAlta.cs",
+              "RelativeDocumentMoniker": "Form_Principal\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormAlta.cs",
+              "RelativeToolTip": "Form_Principal\\FormAlta.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:44:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormModificar.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormModificar.cs",
+              "RelativeDocumentMoniker": "Form_Principal\\FormModificar.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormModificar.cs",
+              "RelativeToolTip": "Form_Principal\\FormModificar.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:29:56.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormArchivo.cs",
+              "RelativeDocumentMoniker": "Form_Principal\\FormArchivo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Form_Principal\\FormArchivo.cs",
+              "RelativeToolTip": "Form_Principal\\FormArchivo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:44:53.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiClaseSerealizadoraGenerica.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Biblioteca_de_Clases\\MiClaseSerealizadoraGenerica.cs",
+              "RelativeDocumentMoniker": "Biblioteca_de_Clases\\MiClaseSerealizadoraGenerica.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Biblioteca_de_Clases\\MiClaseSerealizadoraGenerica.cs",
+              "RelativeToolTip": "Biblioteca_de_Clases\\MiClaseSerealizadoraGenerica.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:50:42.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\3_Evaluacion_ADO\\Animal.cs",
+              "RelativeDocumentMoniker": "3_Evaluacion_ADO\\Animal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\3_Evaluacion_ADO\\Animal.cs",
+              "RelativeToolTip": "3_Evaluacion_ADO\\Animal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:23:55.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Testeto_Animales_Serealizar\\Program.cs",
+              "RelativeDocumentMoniker": "Testeto_Animales_Serealizar\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\Testeto_Animales_Serealizar\\Program.cs",
+              "RelativeToolTip": "Testeto_Animales_Serealizar\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:05:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clase_ADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\3_Evaluacion_ADO\\Clase_ADO.cs",
+              "RelativeDocumentMoniker": "3_Evaluacion_ADO\\Clase_ADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\CFP_TP\\CFP_Tp\\AlejoTaccone\\3_Evaluacion_ADO\\Clase_ADO.cs",
+              "RelativeToolTip": "3_Evaluacion_ADO\\Clase_ADO.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwGYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:17:13.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
